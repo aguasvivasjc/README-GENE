@@ -41,3 +41,5 @@ To test this application use "node index.js" and the prompts for the README.md f
 
 * aguasvivasjc@gmail.com
 
+
+<img width="1440" alt="README Generator Screenshot" src="https://user-images.githubusercontent.com/94660524/155857830-1f7f1368-68a8-460b-9321-450bd3bc3af1.png">
