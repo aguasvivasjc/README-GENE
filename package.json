@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/aguasvivasjc/RRADME-GENE#readme",
   "dependencies": {
-    "inquirer": "^8.2.0"
+    "inquirer": "^8.2.0",
+    "path": "^0.12.7"
   }
 }
